@@ -1,0 +1,1 @@
+This is my an example of skills I have learned with Full Stack Academy.
