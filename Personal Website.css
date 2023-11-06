@@ -1,4 +1,8 @@
 
+/*Hover Effect for Site*/
+a:hover {
+    background-color: aqua;
+}
 /*colors for website*/
 body{
     background-color: #2E4374;
@@ -17,6 +21,7 @@ h1{
     border-style: inset;
     border: solid black 2px;
 }
+
 
 
 h2,h3{
@@ -41,12 +46,15 @@ p{
 
 a {
     display: block;
+    border: solid black 2px;
+    background-color: #7c81ad;
 }
 
 /*Style the navigation menu */
 
 ul {
     border: solid black 2px;
+    
 }
 
 nav{
